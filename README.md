@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **learn.svelte.dev の日本語化プロジェクトは、以下のリポジトリに統合されました！**
+> 
+> https://github.com/svelte-jp/svelte.dev
+> 
+
+---
+
 # learn.svelte.dev
 
 A soup-to-nuts interactive tutorial on how to build apps with Svelte.
